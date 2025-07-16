@@ -28,7 +28,6 @@ function App() {
         <Header />
         <main>
         TODO:  <Outlet />
-        i  am aditya ranjan
         </main>
         <Footer />
       </div>
